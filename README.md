@@ -1,2 +1,2 @@
 # the-barber-cut
-Aplicativo para agendamento na barbearia Barber Cut
+Aplicativo para agendamento para a barbearia Barber Cut
