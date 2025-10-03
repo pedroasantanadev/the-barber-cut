@@ -1,2 +1,2 @@
 # the-barber-cut
-Sistema de Gestão Empresarial para Barbearias
+Aplicativo para agendamento na barbearia Barber Cut
